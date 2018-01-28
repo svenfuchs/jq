@@ -17,7 +17,7 @@ package jq
 import (
 	"strings"
 
-	"github.com/savaki/jq/scanner"
+	"github.com/gabesullice/jq/scanner"
 )
 
 // Op defines a single transformation to be applied to a []byte
