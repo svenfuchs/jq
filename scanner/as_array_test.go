@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/savaki/jq/scanner"
+	"github.com/svenfuchs/jq/scanner"
 )
 
 func BenchmarkAsArray(t *testing.B) {
